@@ -1,6 +1,6 @@
 ## ping 
 
-[ping app 隐私政策](./ping/privacy.html)
+[ping app 隐私政策](./ping/privacy_zh.html)
 
  
  
